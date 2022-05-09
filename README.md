@@ -33,7 +33,7 @@ DoctorCare é uma página institucional no formato One Page, responsiva, para us
 
 ## 🌐 Link
 
-Você pode acessar o site hospedado na internet através [desse link](https://carlosportella16.github.io/NLW/).
+Você pode acessar o site hospedado na internet através [desse link](https://carlosportella16.github.io/DoctorCareWeb/).
 
 ## 🔖 Layout
 
